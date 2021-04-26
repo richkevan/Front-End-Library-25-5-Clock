@@ -1,0 +1,17 @@
+.column {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.button {
+    border: 2px lightgray outset;
+    border-radius: 5px;
+    background-color: lightgray;
+}
